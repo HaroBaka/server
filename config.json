@@ -1,7 +1,7 @@
 {
- "ip": "",
- "port": "",
- "name": "BOT",  
+ "ip": "Sochill.aternos.me",
+ "port": "42167",
+ "name": "Haro",  
  "auto-night-skip": "false",
  "loginmsg": "ana bot"
 }
